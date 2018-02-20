@@ -16,7 +16,7 @@ Space rescue and excavation mission
 Low polygon
 
 ### Character:
-Spaceship (first-person) + Mech (third-person)
+Spaceship (first-person) + Mech (third-person) + Monsters (AI third-person) + Miners (NPC third-person)
 
 ### Story:
 bjective is to free miners, lure monsters, and avoid being destroyed. Miners stuck on a planet with mineral-eating monsters. Our job is to deploy from a spaceship as a mech, drill and find the miners before the monsters eat them. Most materials can be drilled through at varying speeds but some materials are incredibly hard and the mech must lure the monsters in to destroy the material without being eaten. |
