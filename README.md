@@ -33,18 +33,18 @@ One planet or asteroid terrain (land, trees, rocks + crystals, water)
 
 ### Roles and Responsibilities:
 
-| Task  | In-Charge | Due Date |
-| :------------- | :-------------: | ------------: |
-| Game Name | Group | 20 March 2018 |
-| Modelling Spaceship | Dan | 16 March 2018 |
-| Modelling Mech | Touraj | 2 March 2018 |
-| Modelling Monster | Touraj | 2 March 2018 |
-| Modelling Miners | Arjun | 2 March 2018 |
-| Environment (general) | Touraj + Arjun | 2 March 2018 |
-| Environment (rocks and crystals) | Dan  | 2 March 2018 |
-| Mech Rigging | Dan | 9 March 2018 |
-| Unity Programming Primary | Tom | 20 March 2018 |
-| Unity Programming Secondary | Arjun | 20 March 2018  |
-| Introduction Movie | Tom + Arjun | 20 March 2018 |
-| Demonstration Movie | Touraj + Arjun | 20 March 2018 |
-| GitHub Project Management | Arjun | 20 March 2018 |
+| Task  | In-Charge | Due Date | Status
+| :------------- | :-------------: | :------------: | ------------: |
+| Game Name | Group | 20 March 2018 | in-progress |
+| Modelling Spaceship | Dan | 16 March 2018 | |
+| Modelling Mech | Touraj | 2 March 2018 | |
+| Modelling Monster | Touraj | 2 March 2018 | |
+| Modelling Miners | Arjun | 2 March 2018 | |
+| Environment (general) | Touraj + Arjun | 2 March 2018 | |
+| Environment (rocks and crystals) | Dan  | 2 March 2018 | |
+| Mech Rigging | Dan | 9 March 2018 | |
+| Unity Programming Primary | Tom | 20 March 2018 | |
+| Unity Programming Secondary | Arjun | 20 March 2018  | |
+| Introduction Movie | Tom + Arjun | 20 March 2018 | |
+| Demonstration Movie | Touraj + Arjun | 20 March 2018 | |
+| GitHub Project Management | Arjun | 20 March 2018 | |
